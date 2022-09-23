@@ -16,11 +16,11 @@ const precosLivros = [
     preco:50
 },
 {
-    titulo:"",
+    titulo:"Go",
     preco: 45
 },
 {
-    titulo:"",
+    titulo:"Python",
     preco: 20
 }
 ];

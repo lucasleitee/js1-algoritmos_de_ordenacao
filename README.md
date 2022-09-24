@@ -1,6 +1,8 @@
 # js1-algoritmos_de_ordenacao
 
-Este repositorio é para armazenar os códigos que realizei de exercícios no curso de JavaScript I: algoritmos de ordenação.
+Este repositorio é para armazenar os códigos que realizei de exercícios nos cursos: 
+JavaScript I: algoritmos de ordenação.
+Algoritmos com JavaScript II: aprofundando em algoritmos de ordenação e busca
 
 Resumo dos conteúdos abordados:
 

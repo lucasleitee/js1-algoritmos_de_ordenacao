@@ -1,6 +1,8 @@
 # js1-algoritmos_de_ordenacao
 
-Esses foram os conteúdos abordados no curso da Alura de JavaScript I: algoritmos de ordenação:
+Este repositorio é para armazenar os códigos que realizei de exercícios no curso de JavaScript I: algoritmos de ordenação.
+
+Resumo dos conteúdos abordados:
 
 1 - Que, além das formas linear e quadrática, existem outras formas de cálculo de complexidade de um algoritmo, como a constante;
 
